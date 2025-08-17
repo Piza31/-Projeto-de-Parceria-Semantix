@@ -57,7 +57,9 @@ A análise busca identificar padrões de consumo per capita em diferentes grupos
 - Integrar dados de regiões para identificar desigualdades regionais.  
 - Usar técnicas de machine learning para prever tendências de consumo.  
 
----
+RELATÓRIO LOOKER STUDIO 
+
+https://lookerstudio.google.com/s/mD7oSSqEfWg
 
 ✍️ **Autor:** Gabriel (Projeto Acadêmico – Análise de Dados)  
 📊 **Ferramentas:** Python, Pandas, Matplotlib, Google Sheets, Looker Studio  
